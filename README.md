@@ -1,4 +1,4 @@
-# Lightweight-Google-Sign-Token-Verifier
+# Lightweight Google Sign Token Verifier
 A lightweight library written in PHP that validates and verifies google sign token
 
 After got the OAUTH2 token from your client such as Android, IOS, token has to be sent to backend and be verified.
